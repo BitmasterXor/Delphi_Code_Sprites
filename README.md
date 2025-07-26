@@ -19,7 +19,8 @@
 <div align="center">
 
 ### 🎮 **Fun Sprites in Your Code**
-![Code Sprites Preview](preview.png)
+![Code Sprites Preview](Preview.png)
+![Code Sprites Preview](Preview2.png)
 
 *Add some personality to your coding sessions!*
 
