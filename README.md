@@ -50,7 +50,7 @@
 
 ## 🚀 Quick Start
 
-1. **Tools → Add Sprite to Editor...**
+1. **Tools → Add Image to Editor...**
 2. **Browse** for your favorite GIF or image
 3. **Adjust** size and animation speed
 4. **Click OK** - watch your code come alive!
