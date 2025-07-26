@@ -88,7 +88,7 @@
 
 <div align="center">
 
-**🎮 Make Coding Fun Again!**
+**🎮 Add a little Character To Your Code!**
 
 **Made By BitmasterXor With ❤️ for the Delphi Community**
 
