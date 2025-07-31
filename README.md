@@ -1,6 +1,5 @@
 # 🎨 Delphi Code Sprites v1.0.0
 **Add Fun Images & Animated Characters to Your Delphi Code Editor**
-
 > **🎯 What it does:** Drop animated GIFs and fun images right into your Delphi code editor. Make coding more enjoyable with animated characters, memes, and visual flair!
 
 <div align="center">
@@ -14,14 +13,26 @@
 
 ---
 
-## 🎬 Preview
+## 🎬 Video Tutorial
 
+<div align="center">
+
+### 📺 **Watch the Complete Installation & Demo**
+
+[![Code Sprites Tutorial](https://img.youtube.com/vi/BWmRbahTYOc/maxresdefault.jpg)](https://youtu.be/BWmRbahTYOc)
+
+**👆 Click to watch: Add ANIMATED GIFS & MEMES to Your Delphi Code Editor!**
+
+</div>
+
+---
+
+## 🎬 Preview
 <div align="center">
 
 ### 🎮 **Fun Sprites in Your Code**
 ![Code Sprites Preview](Preview.png)
 ![Code Sprites Preview](preview2.png)
-
 *Add some personality to your coding sessions!*
 
 </div>
