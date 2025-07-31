@@ -19,7 +19,7 @@
 
 ### 📺 **Watch the Complete Installation & Demo**
 
-[![Code Sprites Tutorial](https://img.youtube.com/vi/BWmRbahTYOc/maxresdefault.jpg)](https://youtu.be/BWmRbahTYOc)
+[![Code Sprites Tutorial](http://img.youtube.com/vi/BWmRbahTYOc/0.jpg)](https://youtu.be/BWmRbahTYOc)
 
 **👆 Click to watch: Add ANIMATED GIFS & MEMES to Your Delphi Code Editor!**
 
